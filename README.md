@@ -8,11 +8,4 @@ update for push command
 changes in the feature branch
 change in the new-work-after line 1
 change in the new-owrk-after line 2
-
-<<<<<<< HEAD
-new work branch changes
-
 revert changes demo 1
-
-=======
->>>>>>> parent of 7f52533 (new work changes resolve conflict)
